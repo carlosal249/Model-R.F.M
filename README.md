@@ -39,4 +39,7 @@ e conseguimos tabem quantificar o valor de cada grupo ao negocio:
 | Premium	|11374.9 |	112.45 |	12.00 |
 
 <sub>Valores agrupados pela media</sub>
+
+![Main](https://github.com/carlosal249/Model-R.F.M/blob/master/analise_segmentos.png)
+
 <br>
