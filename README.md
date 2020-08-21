@@ -18,7 +18,7 @@ chamei de 'Pontuacao', e os valores variam com base nos tres fatores que estamos
 
 <br>
 <p>
-e ao final dividi a base de dados em 4 grupos
+e ao final da analise a base foi dividida em 4 grupos:
 </p>
 <ul> 
   <li>pontuacao = 0  Inativo</li>
@@ -26,10 +26,11 @@ e ao final dividi a base de dados em 4 grupos
   <li>Pontuacao >= 3 Master</li>
   <li>Pontuacao >= 5 Premium</li>
 </ul>
+<br>
 
-e conseguimos tabem quantificar o valor de cada grupo ao negocio:
+![Main](https://github.com/carlosal249/Model-R.F.M/blob/master/analise_segmentos.png)
 
-
+<p>e conseguimos tabem quantificar o valor de cada grupo ao  nosso negocio: </p>
 
 |       | Receita | Recencia | Frequencia |
 | ---   |     ---   |    ---  |  ---   |
@@ -39,7 +40,3 @@ e conseguimos tabem quantificar o valor de cada grupo ao negocio:
 | Premium	|11374.9 |	112.45 |	12.00 |
 
 <sub>Valores agrupados pela media</sub>
-
-![Main](https://github.com/carlosal249/Model-R.F.M/blob/master/analise_segmentos.png)
-
-<br>
