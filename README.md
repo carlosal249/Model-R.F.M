@@ -7,8 +7,8 @@ Uma analise detalhada da nossa carteira de dados revela quais sao os clientes ma
 ativos e evitar perdelos e essencial para manter o negocio forte assim como entender se temos clientes com potenciais Expansões
 </p>
 <p>
-Realizei uma analise RFM, Recencia, Frequencia, Valor monetario com ajuda de machine learning para agrupar e atribui uma nota final que 
-chamei de 'Pontuacao', e os valores variam com base nos tres fatores que estamos focando </p>
+Realizei uma analise RFM, Recencia, Frequencia e Valor monetario,com a ajuda de machine learning para agrupar os clientes e atribuir uma nota final que 
+chamei de 'Pontuacao', e os valores variam com base nos tres fatores que estamos analisando</p>
 <br>
 <ul>
   <li>0-3 para recencia, onde quanto menor a recencia, maior a nota!</li>
