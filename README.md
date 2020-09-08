@@ -38,7 +38,7 @@ e ao final da analise a base foi dividida em 4 grupos:
 
 ![Main](https://github.com/carlosal249/Model-R.F.M/blob/master/analise_anual_bussines.png)
 
-<p>e conseguimos tabem quantificar o valor de cada grupo ao  nosso negocio: </p>
+<p>Conseguimos tabem quantificar o valor de cada grupo ao  nosso negocio: </p>
 
 |       | Receita | Recencia | Frequencia |
 | ---   |     ---   |    ---  |  ---   |
