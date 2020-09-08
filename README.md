@@ -30,7 +30,7 @@ e ao final da analise a base foi dividida em 4 grupos:
 
 ![Main](https://github.com/carlosal249/Model-R.F.M/blob/master/analise_segmentos.png)
 
-<p> E podemos concluir que o modelo funcionou bem, após plotarmos os grupos X Compras(media) fica clara a diferença entre os grupos!<p>
+<p> E podemos concluir que o modelo funcionou bem, após plotarmos os Grupos X Compras(media) em um plano de calendario anual, fica clara a diferença entre os grupos!<p>
 
 ![Main](https://github.com/carlosal249/Model-R.F.M/blob/master/analise_anual_premium.png)
 
