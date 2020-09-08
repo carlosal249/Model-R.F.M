@@ -40,12 +40,14 @@ e ao final da analise a base foi dividida em 4 grupos:
 
 <p>Conseguimos tabem quantificar o valor de cada grupo ao  nosso negocio: </p>
 
-|       | Receita | Recencia | Frequencia |
-| ---   |     ---   |    ---  |  ---   |
-| Inativo	|202.075 | 490.10 |	1.28    |
-| Bussines|265.552 | 260.83 |	1.63    |
-| Master  |486.284 | 80.904 |  2.25   |
-| Premium	|11374.9 |	112.45 |	12.00 |
+<p align="center">
 
-<sub>Valores agrupados pela media</sub>
+  |       | Receita | Recencia | Frequencia |
+  | ---   |     ---   |    ---  |  ---   |
+  | Inativo	|202.075 | 490.10 |	1.28    |
+  | Bussines|265.552 | 260.83 |	1.63    |
+  | Master  |486.284 | 80.904 |  2.25   |
+  | Premium	|11374.9 |	112.45 |	12.00 |
 
+  <sub>Valores agrupados pela media</sub>
+</p>
