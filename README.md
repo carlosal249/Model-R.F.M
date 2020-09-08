@@ -49,5 +49,5 @@ e ao final da analise a base foi dividida em 4 grupos:
   | Master  |486.284 | 80.904 |  2.25   |
   | Premium	|11374.9 |	112.45 |	12.00 |
 
-  <sub>Valores agrupados pela media</sub>
+  <sub>*Valores agrupados pela media*</sub>
 </p>
