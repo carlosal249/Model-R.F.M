@@ -30,6 +30,14 @@ e ao final da analise a base foi dividida em 4 grupos:
 
 ![Main](https://github.com/carlosal249/Model-R.F.M/blob/master/analise_segmentos.png)
 
+<p> E podemos concluir que o modelo funcionou bem, após plotarmos os grupos X Compras(media) fica clara a diferença entre os grupos!<p>
+
+![Main](https://github.com/carlosal249/Model-R.F.M/blob/master/analise_anual_premium.png)
+
+<p></p>
+
+![Main](https://github.com/carlosal249/Model-R.F.M/blob/master/analise_anual_bussines.png)
+
 <p>e conseguimos tabem quantificar o valor de cada grupo ao  nosso negocio: </p>
 
 |       | Receita | Recencia | Frequencia |
@@ -40,3 +48,4 @@ e ao final da analise a base foi dividida em 4 grupos:
 | Premium	|11374.9 |	112.45 |	12.00 |
 
 <sub>Valores agrupados pela media</sub>
+
