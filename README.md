@@ -8,7 +8,7 @@ ativos e evitar perdelos e essencial para manter o negocio forte assim como ente
 </p>
 <p>
 Realizei uma analise RFM (Recencia, Frequencia e Valor monetario), com a ajuda de machine learning para agrupar os clientes e atribuir uma nota final que 
-chamei de 'Pontuacao', e os valores variam com base nos tres fatores que estamos analisando</p>
+chamei de 'Pontuacao', e os valores variam com base nos fatores que estamos analisando</p>
 <br>
 <ul>
   <li>0-3 para recencia, onde quanto menor a recencia, maior a nota!</li>
